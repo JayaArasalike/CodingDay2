@@ -1,1 +1,1 @@
-# CodingDay2
+I'm just exploring GitHub and Git
